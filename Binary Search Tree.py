@@ -4,6 +4,7 @@ class BinarySearchTreeNode:
         self.right = None
         self.left = None
 
+   
     def temp(self):
         if self.right is None:
             return -1
