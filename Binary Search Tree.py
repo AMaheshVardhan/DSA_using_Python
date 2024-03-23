@@ -95,7 +95,6 @@ class BinarySearchTreeNode:
         
 
 
-
 bst = BinarySearchTreeNode(10)
 bst.Addchild(20)
 bst.Addchild(0)
